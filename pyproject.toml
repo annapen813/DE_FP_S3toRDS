@@ -1,0 +1,19 @@
+[project]
+name = "Python-Project-Data-Extraction-Data-Transformation-Storing-APIServiceCheck-Lambda-Automation"
+version = "0.0.1"
+authors = [
+  { name="Ananda Padmanaban", email="anna.shy314@gmail.com" },
+]
+description = "This project contains two functionality
+               1. Data Extraction - Transformation - Storing in S3 and RDS
+               2. ISS API Status Check - Slack Integration - AWS Lambda function automation"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/annapen813/DE_FP_S3toRDS"
