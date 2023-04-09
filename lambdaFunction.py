@@ -124,4 +124,4 @@ def checkDataCount():
 
 #chectAPIStatus('http://api.open-notify.org/iss-now.json')
 #postMessageToSlackCommunity()
-checkDataCount()
+#checkDataCount()

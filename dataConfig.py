@@ -3,8 +3,8 @@ companyFactsSavePath = "/PythonProjects/DE_FP_S3toRDS/data/companyFacts/"
 downloadSubmissionsUrl = "https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip"
 submissionsSavePath = "/PythonProjects/DE_FP_S3toRDS/data/Submissions/"
 region_name = 'us-west-2'
-aws_access_key_id='AKIAVNK7CLJJENEXCIXX'
-aws_secret_access_key='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'
+aws_access_key_id='AKIAVNK7CLJJENEXCIXXY'
+aws_secret_access_key='aTNDjpn6U2GknHxHsULawBtomo18HuQjp6JCo91/K'
 companyFactS3="guvi-company-facts"
 submissionsS3="guvi-submissions"
 #Database
@@ -21,4 +21,4 @@ slack_client_id="5078191315825.5051320086263"
 slack_client_secret="961776aa825bfd2223c2e53c209d03fe"
 slack_sigining_secret="5d3b6c478df3a5da1c75d660fc49d9bc"
 slack_verification_token="5d3b6c478df3a5da1c75d660fc49d9bc"
-slack_oauth_token="xoxb-5078191315825-5051336493607-9zPa3DXKS7W4aI3nXA7pzGwI"
+slack_oauth_token="xoxb-5078191315825-5051336493607-iu5jmRAxiTBpIgbllLqL95Xp"
